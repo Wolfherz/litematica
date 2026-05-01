@@ -179,7 +179,7 @@ public class EntityUtils
 
         if (mc.player == null)
         {
-            return Pair.of("", "");
+            return Pair.of("Wolfherz", "Awooo!");
         }
         else if (isGoat(mc.player.getGameProfile()))
         {
