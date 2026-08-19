@@ -189,7 +189,7 @@ public class EntityUtils
 
         if (mc.player == null)
         {
-            return Pair.of("", "");
+            return Pair.of("Wolfmatica", "Awooo!");
         }
         else if (isSakura(mc.player.getGameProfile()))
         {
